@@ -1,0 +1,1 @@
+document.write("<div style='text-align:center,'>");document.write("<a href='default.htm'>Home</a> | <a href='benefits.htm'>Benefits of Going Vegetarian</a> | <a href='recipes.htm'>Vegetarian Recipes</a> | <a href='saveanimals.htm'>Save the Animals</a>");document.write("</div>")
